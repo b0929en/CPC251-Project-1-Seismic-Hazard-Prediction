@@ -14,8 +14,22 @@ Our work involves preprocessing data, handling class imbalance, applying feature
 
 ## Getting Started
 Here is the guideline to use the source code:
-1. **Clone repository:** <br> Run the following code in your terminal to clone the repository to your local machine: <br> `git clone https://github.com/b0929en/Seismic-Hazard-Prediction`  
-2. **Navigate to the Project Directory** <br> `cd Seismic-Hazard-Prediction`  
-3. **Run the Jupyter Notebook** <br>
-- Open the Jupyter Notebook "seismic_prediction.ipynb" using Jupyter or any compatible environment.
-- Execute the cells in the notebook following the order.
+
+1. **Clone repository:**  
+   Run the following code in your terminal to clone the repository to your local machine:  
+
+   ```bash
+   git clone https://github.com/b0929en/Seismic-Hazard-Prediction
+   ```
+
+2. **Navigate to the Project Directory**  
+
+   ```bash
+   cd Seismic-Hazard-Prediction
+   ```
+
+3. **Run the Jupyter Notebook**  
+
+   - Open the Jupyter Notebook `"seismic_prediction.ipynb"` using Jupyter or any compatible environment.  
+   - Execute the cells in the notebook following the order.
+
