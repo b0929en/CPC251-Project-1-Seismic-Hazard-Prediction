@@ -1,0 +1,1 @@
+# CPC251-Project-1-Seismic-Hazard-Prediction
